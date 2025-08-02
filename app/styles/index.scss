@@ -9,9 +9,11 @@
 
 html,
 body {
+  background: linear-gradient(135deg, #FF6B35 0%, #FF8C42 25%, #E85A00 60%, #000000 100%);
+  min-height: 100vh;
   height: 100%;
   width: 100%;
-  background: linear-gradient(135deg, #000000 0%, #ff6b35 100%);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 :root {
